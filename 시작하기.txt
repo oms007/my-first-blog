@@ -1,0 +1,12 @@
+
+가상환경시작 : myvenv\Scripts\activate
+
+서버실행 : python manage.py runserver
+
+
+
+Git 저장소 만들기 :
+
+E:\PROGRA~1\PortableGit\bin\git init
+E:\PROGRA~1\PortableGit\bin\git config --global user.name "Henry Oh"
+E:\PROGRA~1\PortableGit\bin\git config --global user.email oms00700@gmail.com
